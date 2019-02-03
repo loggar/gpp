@@ -18,4 +18,3 @@ gcc version 5.3.0 (GCC)
 ## references
 
 - https://www.tutorialspoint.com/cplusplus
--
