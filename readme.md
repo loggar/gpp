@@ -15,3 +15,7 @@ Thread model: win32
 gcc version 5.3.0 (GCC)
 ```
 
+## references
+
+- https://www.tutorialspoint.com/cplusplus
+-
